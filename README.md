@@ -1,8 +1,8 @@
-<h2>👋 Hello, World! I'm Essam<h2/>
+👋 Hello, World! I'm Essam
 🌟 Frontend Developer | Aspiring Data Scientist | Freelancer
 💻 Passionate about crafting seamless user experiences and uncovering insights from data.
 
-<h3>✨ What I Do:<h3/>
+✨ What I Do:
 🌐 Build stunning, responsive websites with HTML, CSS, and JavaScript
 🎨 Enhance interactivity with React and modern frontend technologies
 🛠️ Solve real-world problems using Python and data-driven solutions
