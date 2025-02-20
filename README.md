@@ -1,18 +1,18 @@
-👋 Hello, World! I'm Essam
-🌟 Web Developer | Freelancer | Learner
-💻 Passionate about crafting beautiful, responsive websites.
+<h2>👋 Hello, World! I'm Essam<h2/>
+🌟 Frontend Developer | Aspiring Data Scientist | Freelancer
+💻 Passionate about crafting seamless user experiences and uncovering insights from data.
 
-✨ What I Do:
-
-🌐 Build stunning landing pages with HTML & CSS
-🎨 Add creativity with interactive JavaScript
-🛠️ Solve problems with beginner-level Python
-🚀 Currently freelancing on Workana and Contra, helping clients bring their ideas to life.
-
+<h3>✨ What I Do:<h3/>
+🌐 Build stunning, responsive websites with HTML, CSS, and JavaScript
+🎨 Enhance interactivity with React and modern frontend technologies
+🛠️ Solve real-world problems using Python and data-driven solutions
+🚀 Freelancing on Workana and Contra, turning ideas into reality
 📚 Always Learning:
+💡 Advancing my frontend expertise with modern frameworks
+📊 Exploring data science, including Python, machine learning, and data visualization
+🧠 Committed to continuous growth in AI, analytics, and web development
 
-💡 Mastering advanced front-end skills and exploring the endless possibilities of coding!
-🔗 Let's Connect:
+🔗 Let's Connect!
 
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-essam-bhatti-447b78330/)
 
