@@ -33,13 +33,18 @@
 
 ## 📈 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=essambhatti&show_icons=true&theme=react&hide_title=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=essambhatti&theme=react"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=essambhatti&show_icons=true&theme=react&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=essambhatti&theme=react" />
+</p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=essambhatti&layout=compact&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=essambhatti&layout=compact&theme=react" />
 </p>  
+
+### 🗓️ Contribution Chart:
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=essambhatti&theme=vue" />
+</p>
 <br>  
 
 ## 🔗 Let's Connect!  
