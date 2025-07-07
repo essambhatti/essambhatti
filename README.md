@@ -32,18 +32,10 @@
 <br>  
 
 ## 📈 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=essambhatti&show_icons=true&theme=react&hide_title=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=essambhatti&theme=react" />
-    </td>
-  </tr>
-</table>
-
-<p align="left">
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=essambhatti&show_icons=true&theme=react&hide_title=true" />
+</p>  
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=essambhatti&layout=compact&theme=react" />
 </p>  
 
