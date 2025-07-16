@@ -9,7 +9,7 @@
 ⚛️ Craft rich user interfaces with **React, React Native, and modern frontend tools**  <br>  
 🐍 Develop scalable backend systems with **Python (Flask & Django)** and **Next.js**  <br>  
 🗃️ Manage and query data using **SQL** and **MongoDB**  <br>
-📦 Dockerize and deploy full-stack applications  
+📦 Dockerize and deploy full-stack applications  <br>
 <br>  
 
 ## 🛠️ Tools & Technologies:
