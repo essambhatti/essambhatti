@@ -10,7 +10,7 @@
 🐍 Develop scalable backend systems with **Python (Flask & Django)** and **Next.js**  <br>  
 🗃️ Manage and query data using **SQL** and **MongoDB**  <br>
 📦 Dockerize and deploy full-stack applications  <br>
-<br>  
+ 
 
 ## 🛠️ Tools & Technologies:
 <p align="left">
