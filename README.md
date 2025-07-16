@@ -8,7 +8,7 @@
 🌐 Build **dynamic, responsive websites** using **HTML, CSS, JavaScript & TypeScript**  <br>  
 ⚛️ Craft rich user interfaces with **React, React Native, and modern frontend tools**  <br>  
 🐍 Develop scalable backend systems with **Python (Flask & Django)** and **Next.js**  <br>  
-🗃️ Manage and query data using **SQL** and **MongoDB**  
+🗃️ Manage and query data using **SQL** and **MongoDB**  <br>
 📦 Dockerize and deploy full-stack applications  
 <br>  
 
