@@ -1,14 +1,15 @@
 👋 Hello, World! I'm Essam  
 <br>  
-🌟 **Web Developer | ML Enthusiast**  
-💻 Passionate about building web applications and uncovering insights from data.  
+🌟 **Full Stack Web & App Developer**  
+💻 Passionate about building modern web and mobile experiences.  
 <br>  
 
 ## ✨ What I Do:  
-🌐 Build **dynamic, responsive websites** using **HTML, CSS, and JavaScript**  <br>  
-⚛️ Enhance interactivity with **React and modern frontend technologies**  <br>  
-🐍 Develop robust backend solutions with **Python, Flask, and Django**  <br>  
-🗃️ Manage and query data using **SQL**  
+🌐 Build **dynamic, responsive websites** using **HTML, CSS, JavaScript & TypeScript**  <br>  
+⚛️ Craft rich user interfaces with **React, React Native, and modern frontend tools**  <br>  
+🐍 Develop scalable backend systems with **Python (Flask & Django)** and **Next.js**  <br>  
+🗃️ Manage and query data using **SQL** and **MongoDB**  
+📦 Dockerize and deploy full-stack applications  
 <br>  
 
 ## 🛠️ Tools & Technologies:
@@ -16,19 +17,24 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>  
 <br>
 
 ## 📚 Always Learning:  
-💡 Expanding my **full-stack development** expertise  <br>  
-📊 Exploring **machine learning** and **data visualization** with Python  <br>  
-🧠 Committed to continuous growth in **AI, analytics, and web development**  
+💡 Advancing in **full-stack development** and scalable architectures  <br>  
+📱 Exploring **mobile-first design** and **cross-platform apps** with React Native  <br>  
+🧠 Continuously improving deployment, security, and performance of web apps  
 <br>  
 
 ## 📈 GitHub Stats:
@@ -54,4 +60,4 @@
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-essam-bhatti-447b78330/)  
 <br>  
 
-🌈 **Fun Fact:** I'm on a journey to turn my passion for coding into a lifelong adventure! 🚀  
+
