@@ -6,11 +6,11 @@
 
 ## ✨ What I Do:  
 🌐 Build **dynamic, responsive websites** using **HTML, CSS, JavaScript & TypeScript**  <br>  
-⚛️ Craft rich user interfaces with **React, React Native, and modern frontend tools**  <br>  
+⚛️ Craft rich user interfaces with **React, React Native, and Tailwind CSS**  <br>  
 🐍 Develop scalable backend systems with **Python (Flask & Django)** and **Next.js**  <br>  
-🗃️ Manage and query data using **SQL** and **MongoDB**  <br>
-📦 Dockerize and deploy full-stack applications  <br>
- 
+🗃️ Manage and query data using **SQL** and **MongoDB**  
+📦 Dockerize and deploy full-stack applications  
+<br>  
 
 ## 🛠️ Tools & Technologies:
 <p align="left">
@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -34,6 +35,7 @@
 ## 📚 Always Learning:  
 💡 Advancing in **full-stack development** and scalable architectures  <br>  
 📱 Exploring **mobile-first design** and **cross-platform apps** with React Native  <br>  
+🎨 Improving UI/UX skills with **Tailwind CSS** and component-driven design  
 🧠 Continuously improving deployment, security, and performance of web apps  
 <br>  
 
@@ -60,4 +62,4 @@
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-essam-bhatti-447b78330/)  
 <br>  
 
-
+  
