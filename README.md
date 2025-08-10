@@ -8,7 +8,7 @@
 🌐 Build **dynamic, responsive websites** using **HTML, CSS, JavaScript & TypeScript**  <br>  
 ⚛️ Craft rich user interfaces with **React, React Native, and Tailwind CSS**  <br>  
 🐍 Develop scalable backend systems with **Python (Flask & Django)** and **Next.js**  <br>  
-🗃️ Manage and query data using **SQL** and **MongoDB**  
+🗃️ Manage and query data using **SQL** and **MongoDB**  <br>
 📦 Dockerize and deploy full-stack applications  
 <br>  
 
@@ -35,8 +35,8 @@
 ## 📚 Always Learning:  
 💡 Advancing in **full-stack development** and scalable architectures  <br>  
 📱 Exploring **mobile-first design** and **cross-platform apps** with React Native  <br>  
-🎨 Improving UI/UX skills with **Tailwind CSS** and component-driven design  
-🧠 Continuously improving deployment, security, and performance of web apps  
+🎨 Improving UI/UX skills with **Tailwind CSS** and component-driven design  <br>
+🧠 Continuously improving deployment, security, and performance of web apps  <br>
 <br>  
 
 ## 📈 GitHub Stats:
