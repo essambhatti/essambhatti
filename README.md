@@ -1,53 +1,52 @@
 👋 Hello, World! I'm Essam  
 <br>  
-**Full Stack Developer**  
-Passionate about building modern web and mobile experiences.  
+🌟 **Full Stack Developer**  
+💻 Passionate about building modern web and mobile experiences.  
 <br>  
-## About Me:  
+## 🚀 About Me:  
 • Full stack developer passionate about creating seamless web and mobile experiences  
 • Specialize in modern JavaScript frameworks and Python backend technologies  
 • Currently exploring advanced backend architectures and cloud-native development  
 • Always learning new technologies and working on innovative projects
 <br>  
 ## 🛠️ Tools & Technologies:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40"/>
-  <img src="https://trpc.io/img/logo.svg" alt="tRPC" width="40" height="40"/>
-  <img src="https://appwrite.io/images/logos/appwrite.svg" alt="Appwrite" width="40" height="40"/>
-  <img src="https://neon.tech/brand/neon-logo-dark-color.svg" alt="Neon" width="40" height="40"/>
-  <img src="https://www.inngest.com/brand/inngest-logo-square-light.svg" alt="Inngest" width="40" height="40"/>
-  <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth" width="40" height="40"/>
-  <img src="https://clerk.dev/_next/image?url=%2Fimages%2Fclerk-logomark-light.png&w=64&q=75" alt="Clerk" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-398CCB?style=flat&logo=trpc&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=flat&logo=neon&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-6366F1?style=flat&logo=inngest&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 <br>
-##  GitHub Stats:
+## 📈 GitHub Stats:
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=essambhatti&show_icons=true&theme=react&hide_title=true" />
 </p>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=essambhatti&layout=compact&theme=react" />
 </p>  
-## Contribution Streak Breakdown:
+## 🔥 Contribution Streak Breakdown:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=essambhatti&theme=tokyonight&hide_border=false" />
 </p>
-## Contribution Activity:
+## 🗓️ Contribution Activity:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=essambhatti&theme=vue" />
 </p>
