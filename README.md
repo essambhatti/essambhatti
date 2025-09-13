@@ -57,6 +57,6 @@
 
 ## 🔗 Let's Connect!  
 [LinkedIn](https://www.linkedin.com/in/muhammad-essam-bhatti-447b78330/)  
-[essabhatti@gmail.com](essambhatti@gmail.com)
+[essabhatti@gmail.com](essambhatti@gmail.com)<br>
 [Portfolio](https://essam-beta.vercel.app/)
 <br>
