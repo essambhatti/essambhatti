@@ -35,28 +35,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 <br>
-
-## 📈 GitHub Stats:
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=essambhatti&show_icons=true&theme=react&hide_title=true" />
-</p>  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=essambhatti&layout=compact&theme=react" />
-</p>
-
-## 🔥 Contribution Streak Breakdown:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=essambhatti&theme=tokyonight&hide_border=false" />
-</p>
-
-## 🗓️ Contribution Activity:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=essambhatti&theme=vue" />
-</p>
-<br>  
+ 
 
 ## 🔗 Let's Connect!  
 [LinkedIn](https://www.linkedin.com/in/muhammad-essam-bhatti-447b78330/)  
 [essabhatti@gmail.com](essambhatti@gmail.com)<br>
-[Portfolio](https://essam-beta.vercel.app/)
 <br>
